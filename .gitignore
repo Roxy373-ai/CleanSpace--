@@ -15,3 +15,5 @@ dist-dotnet/
 deliveries/
 release/
 artifacts/
+
+src-dotnet/
