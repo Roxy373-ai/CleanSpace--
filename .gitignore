@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.pytest-tmp/
+.venv/
+build-output/
+dist/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+.tools/
+src-dotnet/**/bin/
+src-dotnet/**/obj/
+dist-dotnet/
+deliveries/
+release/
+artifacts/

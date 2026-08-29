@@ -1,0 +1,12 @@
+FFprobe distribution notice
+===========================
+
+The portable CleanSpace delivery includes ffprobe.exe from the locally installed
+Gyan.dev FFmpeg 9.0 full build. The executable reports GPL version 3 or later.
+
+FFmpeg project: https://ffmpeg.org/
+License information: https://ffmpeg.org/legal.html
+Gyan.dev builds and source-code links: https://www.gyan.dev/ffmpeg/builds/
+
+CleanSpace does not modify FFprobe. It invokes FFprobe only to inspect video
+container readability and duration.

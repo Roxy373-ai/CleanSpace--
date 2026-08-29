@@ -1,0 +1,17 @@
+CleanSpace v1.1.0 Windows x64
+作者 / 제작자：허준영
+
+这是不含源码的自包含发布包。解压后双击 CleanSpace.exe，无需安装 Python、.NET 或 VS Code。
+This package contains no source code. Extract it and double-click CleanSpace.exe; Python, .NET and VS Code are not required.
+
+本版包含：
+- 中韩双语启动选择和即时切换
+- C/D 盘扫描、暂停、继续、取消和实时进度
+- 重复文件勾选、选择重复副本并加入清理清单
+- 分批清理进度和永久删除二次确认
+- 被占用文件集中显示、批量关闭/强制结束和下次重启清理选项
+- 删除保护：系统组件、软件核心目录和扫描后变化的文件不会直接删除
+
+注意：永久删除不可恢复；强制结束程序可能丢失未保存数据。源码不在本发布包内，SHA256校验值用于检查文件完整性。
+
+주의: 영구 삭제는 복구할 수 없으며 강제 종료 시 저장하지 않은 데이터가 손실될 수 있습니다. 소스 코드는 포함하지 않으며 SHA256 값으로 파일 무결성을 확인할 수 있습니다.

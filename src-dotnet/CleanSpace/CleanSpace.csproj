@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationIcon>Assets\CleanSpace.ico</ApplicationIcon>
+    <AssemblyName>CleanSpace</AssemblyName>
+    <RootNamespace>CleanSpace</RootNamespace>
+    <Version>1.2.1</Version>
+    <Authors>허준영</Authors>
+    <Company>허준영</Company>
+    <Product>CleanSpace</Product>
+    <Description>CleanSpace Windows 磁盘清理与空间分析工具</Description>
+    <Copyright>Copyright © 허준영 2026</Copyright>
+    <PublishSingleFile>false</PublishSingleFile>
+    <DebugType>none</DebugType>
+    <DebugSymbols>false</DebugSymbols>
+  </PropertyGroup>
+  <ItemGroup>
+    <Resource Include="Assets\CleanSpace.ico" />
+    <Resource Include="Assets\CleanSpace.png" />
+  </ItemGroup>
+</Project>
